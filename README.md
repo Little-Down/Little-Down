@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Windows Api.
 - 💞️ I’m looking to collaborate...
 - 📫 How to reach me ... You can email me at 1356173200@qq.com or little_down@outlook.com.
-- 🐧 Tencent QQ: 1356173200;
+- 🐧 Tencent QQ: 1356173200
 - 🐤 Twitter: @XutingLi
 
 <!---
