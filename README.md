@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Little-Down, a middle school student.
+- 👋 Hi, I’m Takajun Ritel.
 - 👀 I’m interested in anime.
 - 🌱 I’m currently learning Windows Api.
 - 💞️ I’m looking to collaborate...
-- 📫 How to reach me ... You can email me at 1356173200@qq.com or little_down@outlook.com.
+- 📫 How to reach me ... You can email me at little_down@outlook.com.
 - 🐧 Tencent QQ: 1356173200
-- 🐤 Twitter: @XutingLi
+- 🐤 Twitter: https://twitter.com/Ritel_Takajun
 - ✈ Telegram: https://t.me/Little_Down
 
 <!---
