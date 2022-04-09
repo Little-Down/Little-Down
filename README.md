@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Takajun Ritel.
+- 👋 Hi, I’m Ritel Takajun.
 - 👀 I’m interested in anime.
-- 🌱 I’m currently learning Windows Api.
+- 🌱 I’m currently learning MFC.
 - 💞️ I’m looking to collaborate...
 - 📫 How to reach me ... You can email me at little_down@outlook.com.
 - 🐧 Tencent QQ: 1356173200
